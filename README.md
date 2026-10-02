@@ -124,9 +124,8 @@ Topics I'm exploring:
 
 - 💼 LinkedIn:https://www.linkedin.com/in/muhammadh-nuwaf-676252349
 - 📧 Email: nuwafofficial@gmail.com
-- 🌐 Portfolio: Coming soon
+- 🌐 Portfolio: https://nuwaf-portfolio.vercel.app/
 - 🧑‍💻 Hack The Box: Nuwaf01
-- 🏴 TryHackMe: Coming soon
 - 🐦 X/Twitter:NuwafM78717
 
 ---
